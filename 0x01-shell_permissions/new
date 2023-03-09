@@ -1,4 +1,0 @@
-#!/bin/bash
-git add .
-git commit -m "your own commit message''
-git push
